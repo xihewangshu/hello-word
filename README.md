@@ -1,3 +1,3 @@
 # hello-word
 my first repository
-hahahha
+learning how to user github
